@@ -45,3 +45,10 @@ The **Automated Exam Management System** is a Python-based project that efficien
 - **Efficiency:** Optimal seating allocation without exceeding room capacities.
 - **Faculty Assignments:** Proper assignment based on expertise.
 - **Code Quality:** Clean and well-documented code.
+
+## Outputs
+![Automated-Exam-Management-System](https://github.com/Muradhameed921/Automated-Exam-Management-System/blob/main/O1.jpg)
+![Automated-Exam-Management-System](https://github.com/Muradhameed921/Automated-Exam-Management-System/blob/main/O2.jpg)
+![Automated-Exam-Management-System](https://github.com/Muradhameed921/Automated-Exam-Management-System/blob/main/O3.jpg)
+![Automated-Exam-Management-System](https://github.com/Muradhameed921/Automated-Exam-Management-System/blob/main/O4.jpg)
+
